@@ -1,0 +1,64 @@
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\Task 1 ADO.exe
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\Task 1 ADO.deps.json
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\Task 1 ADO.runtimeconfig.json
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\Task 1 ADO.dll
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\Task 1 ADO.pdb
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.csproj.AssemblyReference.cache
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Singupwindow.g.cs
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO_MarkupCompile.cache
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO_MarkupCompile.lref
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Singupwindow.baml
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.g.resources
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.AssemblyInfoInputs.cache
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.AssemblyInfo.cs
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.csproj.CoreCompileInputs.cache
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.csproj.Up2Date
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.dll
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\refint\Task 1 ADO.dll
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.pdb
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.genruntimeconfig.cache
+C:\Users\Memme_ca81\source\repos\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\ref\Task 1 ADO.dll
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\Task 1 ADO.exe
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\Task 1 ADO.deps.json
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\Task 1 ADO.runtimeconfig.json
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\Task 1 ADO.dll
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\Task 1 ADO.pdb
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.csproj.AssemblyReference.cache
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Singupwindow.g.cs
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO_MarkupCompile.cache
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO_MarkupCompile.lref
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Singupwindow.baml
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.g.resources
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.AssemblyInfoInputs.cache
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.AssemblyInfo.cs
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.csproj.CoreCompileInputs.cache
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.csproj.Up2Date
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.dll
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\refint\Task 1 ADO.dll
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.pdb
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\Task 1 ADO.genruntimeconfig.cache
+C:\Users\Memme_ca81\Desktop\Task 1 ADO\Task 1 ADO\obj\Debug\net8.0-windows\ref\Task 1 ADO.dll

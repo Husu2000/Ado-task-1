@@ -1,0 +1,36 @@
+﻿<Window x:Class="Task_1_ADO.Singupwindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task_1_ADO"
+        mc:Ignorable="d"
+        Title="Singupwindow" Height="750" Width="800">
+    <Grid>
+        <StackPanel>
+            <Label Content="Name"  HorizontalAlignment="Left" FontSize="30"  FontWeight="Bold"/>
+            <TextBox Name="Nametext" Height="30" FontSize="25" Width="450" HorizontalAlignment="Left" Background="LightGray" BorderThickness="0" Margin="0 0 0 30"/>
+
+            <Label Content="Surname"  HorizontalAlignment="Left" FontSize="30" FontWeight="Bold"/>
+            <TextBox Name="Surnametext" Height="30" FontSize="25" Width="450"  HorizontalAlignment="Left" Background="LightGray" BorderThickness="0" Margin="0 0 0 30"/>
+
+            <Label Content="Age"  HorizontalAlignment="Left" FontSize="30" FontWeight="Bold"/>
+            <TextBox Name="Agetext" Height="30" FontSize="25" Width="450" HorizontalAlignment="Left" Background="LightGray" BorderThickness="0" Margin="0 0 0 30"/>
+
+            <Label Content="Login"  HorizontalAlignment="Left" FontSize="30" FontWeight="Bold"/>
+            <TextBox Name="Logintext" Height="30" FontSize="25" Width="450" HorizontalAlignment="Left" Background="LightGray" BorderThickness="0" Margin="0 0 0 30"/>
+
+            <Label Content="Password"  HorizontalAlignment="Left" FontSize="30" FontWeight="Bold"/>
+            <TextBox Name="Passwordtext" Height="30" FontSize="25" Width="450" HorizontalAlignment="Left" Background="LightGray" BorderThickness="0" Margin="0 0 0 30"/>
+
+            <Label Content="Conrfirm Password"  HorizontalAlignment="Left" FontSize="30" FontWeight="Bold"/>
+            <TextBox Name="Confirm_Password" Height="30" FontSize="25" Width="450" HorizontalAlignment="Left" Background="LightGray" BorderThickness="0" Margin="0 0 0 30"/>
+
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="SignUpbutton" Height="50" Width="350" Background="CornflowerBlue" Content="Sign Up" FontSize="30" FontWeight="Bold" Click="SignUpbutton_Click" />
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Window>
